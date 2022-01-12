@@ -10,7 +10,7 @@ class WhiteClaw extends Component {
         className="WhiteClaw"
         style={{
           backgroundImage:
-            "url(https://giphy.com/clips/cameronpaulsmith-hello-polar-bear-growl-ekMtn76P13HbTwNwkP)"
+            "url(https://media3.giphy.com/media/mMl1DphmngffO/giphy.gif?cid=ecf05e4747ececllbpo5g5ho38mn3eeypl46hff7lvejdoyh&rid=giphy.gif&ct=g)"
         }}>
         <Message>
           <h1>WRONG WHITE CLAWS!</h1>
